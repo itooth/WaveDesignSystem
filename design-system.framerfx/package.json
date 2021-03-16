@@ -1,0 +1,23 @@
+{
+	"license": "MIT",
+	"main": "dist/index.js",
+	"devDependencies": {
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^1.0 || ^0.10",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"version": "1.0.0",
+	"dependencies": {
+		"@framer/framer.default": "^1.106.0",
+		"styled-components": "^4.2.0"
+	},
+	"framer": {
+		"displayName": "Wave Design System",
+		"id": "8f93f7b3-2178-4007-a66a-5988e5ce7c7a"
+	},
+	"author": "yan xinxin",
+	"name": "@framer/itooth.wave-design-system"
+}
