@@ -24,7 +24,7 @@ jobs:
     steps:
       - checkout
       - run: yarn
-      - run: npx framer-cli publish design-system.framerfx --yes
+      - run: npx framer-cli publish design-system.framerfx --yes --public
 
 workflows:
   version: 2
